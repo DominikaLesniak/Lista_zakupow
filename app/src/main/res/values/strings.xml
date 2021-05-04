@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lista zakupów</string>
+    <string name="header_text">Lista zakupów</string>
+    <string name="dialog_input_hint">Nazwa produktu</string>
+    <string name="add_button_description">Przycisk dodawania nowego elementu listy</string>
+    <string name="items_delete_action">Usuń zaznaczone elementy</string>
+    <string name="items_sort_action">Sortuj…</string>
+    <string name="sort_dialog_title">Sortuj według…</string>
+    <string name="sort_option1">Alfabetycznie</string>
+    <string name="sort_option2">Zaznaczone - Niezaznaczone</string>
+    <string name="sort_option3">Niezaznaczone - Zaznaczone</string>
+</resources>
